@@ -16,3 +16,7 @@ iterative optimization and fine-tuning of these models. The culmination of this
 work is a robust translation service, the efficacy of which is meticulously evaluated
 and documented, showcasing the profound skills acquired in Python programming
 and sequence-to-sequence model architecture throughout this endeavor.
+
+Results and Metrics:
+
+![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/76a510d2-21f4-472b-abd2-f5330fa8b1d4)
