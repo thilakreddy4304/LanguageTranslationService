@@ -1,0 +1,82 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+.title {
+  text-align: center;
+  color: white;
+  background-color: #0056b3;
+  padding: 18px;
+}
+#inputarea {
+  display: block;
+  top: 50%;
+  left: 25%;
+  width: 30%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+#outputarea {
+  display: none;
+  top: 50%;
+  left: 75%;
+  width: 30%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+.buttontotranslate {
+  margin-top: 0;
+}
+.buttontorefresh {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  text-align: center;
+  background-color: #28a745;
+  color: white;
+  width: auto;
+  top: 70%;
+  left: 50%;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transform: translateX(-50%);
+}
+
+.buttontorefresh:hover {
+  background-color: #218838;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+textarea {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  resize: vertical;
+}
+button {
+  display: block;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+}
+button:hover {
+  background-color: #0056b3;
+}
