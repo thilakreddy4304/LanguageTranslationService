@@ -20,3 +20,7 @@ and sequence-to-sequence model architecture throughout this endeavor.
 Results and Metrics:
 
 ![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/76a510d2-21f4-472b-abd2-f5330fa8b1d4)
+![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/4fa4ee82-7455-4d82-97ab-f7adc6def4e9)
+
+![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/b82f3f3f-8cf9-4f52-89cf-1594fb917acc)
+
