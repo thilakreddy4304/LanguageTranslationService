@@ -24,3 +24,9 @@ Results and Metrics:
 
 ![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/b82f3f3f-8cf9-4f52-89cf-1594fb917acc)
 
+![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/54b4cbe8-56be-4f18-aa9f-58f489992ac3)
+
+![image](https://github.com/thilakreddy4304/LanguageTranslationService/assets/62012568/3d357260-d479-4aba-abff-ca519899bddf)
+
+
+
