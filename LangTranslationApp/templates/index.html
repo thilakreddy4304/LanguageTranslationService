@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Language Translator</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <script src="/static/scripts.js"></script>
+    <div class="title">
+      <h1>Language Translator from French and Romanian to English</h1>
+    </div>
+    <div id="inputarea">
+      <form id="inputform" onsubmit="translatethetext(event)">
+        <div class="form">
+          <label for="input_text_sentence"
+            >Enter a sentence to translate:</label
+          >
+          <textarea id="input_text_sentence" rows="5"></textarea>
+        </div>
+        <button type="submit" class="buttontotranslate">
+          Translate to English
+        </button>
+      </form>
+    </div>
+    <div id="outputarea">
+      <div class="form">
+        <label for="output_text_sentence">Translated Text:</label>
+        <textarea id="output_text_sentence" rows="5" readonly></textarea>
+      </div>
+    </div>
+    <button onclick="resetscreen()" class="buttontorefresh" id="resetbutton">
+      Translate Another Text
+    </button>
+  </body>
+</html>
