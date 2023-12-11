@@ -2,3 +2,6 @@ To run the Web Application use the command 'python3 app.py'
 It is recommended that you have the 3.10 version of the Python as torch is not available with the lastest version.
 
 Python Recommened Version : 3.10.0
+
+
+Supporting files (pickle and path files) drive link:  https://drive.google.com/drive/folders/13s2qukVsAoanMSjeDiYMJwtd3BwhtAvK?usp=sharing
